@@ -3,9 +3,11 @@
 
 > ```git clone https://github.com/zunarp786/nmap_recong```
 
+> ```chmod +x```
+
 #### OR
  ```
- apt update && apt upgrade && git clone https://github.com/zunarp786/nmap_recong
+ apt update && apt upgrade && git clone https://github.com/zunarp786/nmap_recong &&chmod +x
  ```
 
  # Installation For Linux
@@ -13,7 +15,9 @@
 
 > ```git clone https://github.com/zunarp786/nmap_recong```
 
+> ```chmod +x```
+
 #### OR
  ```
- sudo apt update && sudo apt upgrade && git clone https://github.com/zunarp786/nmap_recong
+ sudo apt update && sudo apt upgrade && git clone https://github.com/zunarp786/nmap_recong 
  ```
