@@ -7,7 +7,7 @@
 
 #### OR
  ```
- apt update && apt upgrade && git clone https://github.com/zunarp786/nmap_recong &&chmod +x
+ apt update && apt upgrade && git clone https://github.com/zunarp786/nmap_recong && chmod +x
  ```
 
  # Installation For Linux
